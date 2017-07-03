@@ -1,4 +1,4 @@
-# EPSON XP-230 Series Drivers for Raspberry Pi (armhf Wheezy)
+# EPSON XP-230 Series ImageScan V3 for Raspberry Pi (armhf Wheezy)
 Drivers ImageScan V3 for Epson XP-230 Series Printers compiled for RPI Wheezy
 
 I couldn't compile the drivers in the RPI 3 because memory issues, so I've used Cross Compiling in a ubuntu laptop.
